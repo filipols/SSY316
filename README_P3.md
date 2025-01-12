@@ -3,7 +3,7 @@ This Jupyter Notebook implements a Gibbs sampler to estimate player skills based
 
 It includes:
 
-Posterior Distribution Analysis: Uses analytical expressions to derive and validate distributions
+Posterior Distribution Analysis: Uses analytical expressions to derive and validate distributions \n
 Gibbs Sampling: Simulates samples from the posterior distribution.
 Accuracy Evaluation: Compares Gibbs sampler results to analytical values, varying the number of samples post-burn-in.
 Visualization: Plots posterior distributions, sampler traces, and accuracy vs. runtime, team rankings from ADF
